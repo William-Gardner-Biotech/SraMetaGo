@@ -39,7 +39,7 @@ go build -o sra_fetcher main.go
 ### Run the Program
 
 ```bash
-./sra_fetcher -term="sars-cov-2" -start="2024/01/01" -end="2024/12/31" -api-key="YOUR_NCBI_API_KEY"
+./SraMetaGo -term="sars-cov-2" -start="2024/01/01" -end="2024/12/31" -api-key="YOUR_NCBI_API_KEY"
 ```
 
 #### Flags
