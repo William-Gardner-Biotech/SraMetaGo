@@ -1,6 +1,6 @@
 # SraMetaGo
 
-### This is a Work in Progress repo with lots of room for improvement
+### This is a Work in Progress repo with lots of room for improvement.
 
 ##
 
