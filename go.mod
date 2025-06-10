@@ -1,4 +1,4 @@
-module main
+module SraMetaGo
 
 go 1.23.3
 
